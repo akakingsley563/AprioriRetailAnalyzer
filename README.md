@@ -49,6 +49,13 @@ Implication: Customers show a preference for coordinated vintage-themed bags, wh
 - Rule 1: Customers who buy "RED RETROSPOT CHARLOTTE BAG" tend to also purchase "JUMBO BAG VINTAGE RED PAISLEY".
 Implication: Marketing strategies can focus on promoting these bags together to attract vintage design enthusiasts.
 
+## UnitedKingdom Dataset:
+- Rule 1: Purchases of "Tea Cups and Saucers" are associated with "Cake Stands".
+Implication: These items can be bundled to target customers hosting tea parties or gatherings.
+- Rule 2: "Garden Tools Set" buyers often purchase "Gardening Gloves".
+Implication: This practical relationship can be leveraged in "Get Ready for Gardening" campaigns.
+
+
 ## Conclusion
 The project successfully demonstrates how the Apriori algorithm can be used to extract valuable insights from retail datasets. By analyzing purchasing patterns and associations, businesses can implement more effective marketing strategies, enhancing customer satisfaction and increasing sales. The insights derived from this project provide a foundation for further exploration and application of data mining techniques in retail analytics.
 
