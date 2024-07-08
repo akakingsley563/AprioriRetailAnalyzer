@@ -7,10 +7,10 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Aims](#project-aims)
-- [Project Objectives](#project-objective)
+- [Project Objectives](#project-objectives)
 - [Portugal Dataset](#portugal-dataset)
 - [Sweden Dataset](#sweden-dataset)
-- [UK Dataset](#uK-dataset)
+- [UK Dataset](#uk-dataset)
 - [Conclusion](#Conclusion)
 
 
